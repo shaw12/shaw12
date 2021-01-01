@@ -1,4 +1,4 @@
-### Hi there, I'm Mohd Yasir Hussain aka Shaw 👋
+### Hi there, I'm Yasir - aka Shaw 👋
 
 ## I'm a Full Stack Developer, who love to code! 
 

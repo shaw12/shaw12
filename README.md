@@ -1,6 +1,6 @@
 ### Hi there, I'm Yasir - aka Shaw 👋
 
-## I'm a Full Stack Developer, who love to code! 
+## I'm a Full Stack Developer, who loves to code! 
 
 - 🌱 I’m currently learning React Native and AWS.
 - 📚 Practicing React.js, Javascript, Nodejs and Firebase.

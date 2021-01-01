@@ -50,11 +50,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Testimonials Grid Section using CSS grid | FrontendMentor challange | HTML, CSS](https://youtu.be/XrcUWxFRUd4)
-- [Intro component with sign-up form | How to make form validation using HTML CSS & JavaScript](https://youtu.be/kCwckE7GQnA)
-- [Card hover multi-button using HTML & CSS | Amazing Hover effect](https://youtu.be/-dUttorPZqQ)
-- [Chat app CSS illustration using HTML & CSS | Frontendmentor Challenge| Mobile Chat app design](https://youtu.be/dmN3zkvQuAk)
-- [Project tracking intro component| How to design a landing page| HTML, CSS, JQUERY](https://youtu.be/dZjdxV9Tggk)
+- [Testimonials Grid Section using CSS grid | FrontendMentor challange |](https://www.youtube.com/watch?v=XrcUWxFRUd4)
+- [Intro component with sign-up form | How to make form validation using HTML CSS & JavaScript |](https://www.youtube.com/watch?v=kCwckE7GQnA)
+- [How to design navbar using html css and jQuery](https://www.youtube.com/watch?v=u1Fkue7Uo_M)
+- [Card hover multi-button using HTML & CSS | Hover effect |](https://www.youtube.com/watch?v=-dUttorPZqQ)
+- [Huddle landing page | Frontendmentor Challenge | How to make a website using HTML and CSS |](https://www.youtube.com/watch?v=dtWjObFkYJw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ)

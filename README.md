@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer, who love to code! 
 
 - 🌱 I’m currently learning React Native and AWS.
-- 📚 I’m practicing React.js, Javascript, Nodejs and Firebase.
+- 📚 Practicing React.js, Javascript, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master React, Proficient in MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I love to talk foreigners & watch videos related to history.
@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shaw12 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="shaw12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="shaw12 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shaw12 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -52,7 +52,7 @@
 <!-- YOUTUBE:START -->
 - [Testimonials Grid Section using CSS grid | FrontendMentor challange | HTML, CSS](https://youtu.be/XrcUWxFRUd4)
 - [Intro component with sign-up form | How to make form validation using HTML CSS & JavaScript](https://youtu.be/kCwckE7GQnA)
-- [Card hover multi-button using HTML & CSS | Hover effect | HTML, CSS](https://youtu.be/-dUttorPZqQ)
+- [Card hover multi-button using HTML & CSS | Amazing Hover effect](https://youtu.be/-dUttorPZqQ)
 - [Chat app CSS illustration using HTML & CSS | Frontendmentor Challenge| Mobile Chat app design](https://youtu.be/dmN3zkvQuAk)
 - [Project tracking intro component| How to design a landing page| HTML, CSS, JQUERY](https://youtu.be/dZjdxV9Tggk)
 <!-- YOUTUBE:END -->

@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, who loves to code! 
 
-- 🌱 I’m currently learning React Native and AWS.
+- 🌱 I’m currently learning latest technologies.
 - 📚 Practicing React.js, Javascript, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master React, Proficient in MERN Stack. Contribute to Open Source projects.

@@ -3,9 +3,9 @@
 ## I'm a FrontEnd Developer, who loves to code! 
 
 - 🌱 I’m currently learning latest technologies.
-- 📚 Practicing React.js, Javascript, Nodejs and Firebase.
+- 📚 Practicing Angular.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Proficient in MERN Stack. Contribute to Open Source projects.
+- 🥅 2022 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to talk foreigners & watch videos related to history.
 
 

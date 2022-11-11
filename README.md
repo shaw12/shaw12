@@ -6,7 +6,7 @@
 - 📚 Practicing Angular.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2022 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: I love to talk foreigners & watch videos related to history.
+- ⚡ Fun fact: Loves history.
 
 
 ### Connect with me:

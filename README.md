@@ -1,11 +1,11 @@
 ### Hi there, I'm Yasir - aka Shaw 👋
 
-## I'm a FrontEnd Developer, who loves to code! 
+## I'm a Full Stack Developer, who loves to code! 
 
 - 🌱 I’m currently learning latest technologies.
-- 📚 Practicing Angular.
+- 📚 Practicing Python.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2022 Goals: Contribute to Open Source projects.
+- 🥅 2023 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: Loves history.
 
 

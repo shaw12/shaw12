@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Developer | MVP Awardee | Top 50 CSS Dev (India '22)
 
-- 🔭 Currently working on scalable web apps using **React**, **Next.js**, and **Node.js**
+- 🔭 Currently working on scalable web apps using **React**, **Next.js**, **Node.js** and **Python**
 - 🌱 Exploring **AI tools**, **GraphQL**, and **design systems**
 - 🏆 MVP Awardee | 2× SPOT Awards | Winner of ₹27L in EVERSCALE competition
 - 👯 Always open to collaborating with passionate developers & teams
@@ -24,6 +24,28 @@
 
 ### 🛠️ Tech Stack & Tools
 
+**I work across both front-end and back-end technologies:**
+
+#### 🔹 Languages & Frameworks  
+JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, DRF, NestJS, Angular, React Native, NestJs, jQuery
+
+#### 🎨 Styling  
+CSS3, SCSS, TailwindCSS, Bootstrap
+
+#### 🗄️ Databases  
+MongoDB, PostgreSQL, MySQL
+
+#### 🛠️ Dev Tools  
+Git, GitHub, Vercel, Postman, Prisma, Keystone, Firebase
+
+#### 🧩 CMS & SSR  
+Headless CMS (Sanity, Contentful), SSR/SSG with Next.js
+
+#### ⚙️ Others  
+AWS, Azure, Temporal, Three.js, GraphQL, Redis, SQL, CI/CD pipelines, Micro-Frontend architecture
+
+---
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
@@ -41,8 +63,7 @@
 <img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img
 
 <br />
 <br />

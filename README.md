@@ -1,15 +1,17 @@
-### Hi there, I'm Yasir - aka Shaw 👋
+### Hi there, I'm Yasir – aka Shaw 👋
 
-## I'm a Full Stack Developer, who loves to code! 
+## 💻 Full Stack Developer | MVP Awardee | Top 50 CSS Dev (India '22)
 
-- 🌱 I’m currently learning latest technologies.
-- 📚 Practicing Python.
-- 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2023 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: Loves history.
+- 🔭 Currently working on scalable web apps using **React**, **Next.js**, and **Node.js**
+- 🌱 Exploring **AI tools**, **GraphQL**, and **design systems**
+- 🏆 MVP Awardee | 2× SPOT Awards | Winner of ₹27L in EVERSCALE competition
+- 👯 Always open to collaborating with passionate developers & teams
+- 🧪 Big on code quality, performance, and clean architecture
+- ⚡ Fun fact: I love history and building cool side projects
 
+---
 
-### Connect with me:
+### 🌐 Connect with me:
 
 [<img align="left" alt="shaw12 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="shaw12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,29 +20,29 @@
 
 <br />
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="bootstap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" 
-/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
-/>
-<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" 
-/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+### 🛠️ Tech Stack & Tools
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 
 <br />
 <br />
@@ -50,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Testimonials Grid Section using CSS grid | FrontendMentor challange |](https://www.youtube.com/watch?v=XrcUWxFRUd4)
-- [Intro component with sign-up form | How to make form validation using HTML CSS &amp; JavaScript |](https://www.youtube.com/watch?v=kCwckE7GQnA)
-- [How to design navbar using html css and jQuery](https://www.youtube.com/watch?v=u1Fkue7Uo_M)
-- [Card hover multi-button using HTML &amp; CSS | Hover effect |](https://www.youtube.com/watch?v=-dUttorPZqQ)
-- [Huddle landing page | Frontendmentor Challenge | How to make a website using HTML and CSS |](https://www.youtube.com/watch?v=dtWjObFkYJw)
+- [Testimonials Grid Section using CSS grid | FrontendMentor challenge](https://www.youtube.com/watch?v=XrcUWxFRUd4)
+- [Intro component with sign-up form | HTML CSS & JavaScript form validation](https://www.youtube.com/watch?v=kCwckE7GQnA)
+- [Design navbar using HTML, CSS, and jQuery](https://www.youtube.com/watch?v=u1Fkue7Uo_M)
+- [Multi-button hover card | HTML & CSS](https://www.youtube.com/watch?v=-dUttorPZqQ)
+- [Huddle landing page | Frontendmentor Challenge](https://www.youtube.com/watch?v=dtWjObFkYJw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ)
@@ -62,13 +64,14 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaw12&show_icons=true&hide_border=true" />
-
 </details>
 
+---
+
+<!-- Social links -->
 [twitter]: https://twitter.com/MMyh412
 [youtube]: https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ
 [instagram]: https://www.instagram.com/shaw_012/
-[linkedin]: https://www.linkedin.com/in/mohd-yasir-hussain-95b05417a/
+[linkedin]: https://www.linkedin.com/in/shaw12/
